@@ -48,7 +48,7 @@ The game uses real‑world roll data gathered from physical dice to weight outco
 
 ---
 
-## ODDS
+## Odds based on real world sampling
 
 ### Physical Dice Testing (500 Tosses per Die)
 
