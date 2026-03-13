@@ -48,6 +48,36 @@ The game uses real‑world roll data gathered from physical dice to weight outco
 
 ---
 
+## ODDS
+
+### Physical Dice Testing (500 Tosses per Die)
+
+| Face | Tosses | Probability |
+|-----|--------|-------------|
+| Wheels (upright) | 152 | 30.4% |
+| Roof | 134 | 26.8% |
+| Driver side | 83 | 16.6% |
+| Passenger side | 75 | 15.0% |
+| Ladder (rear) | 34 | 6.8% |
+| Windshield (front) | 22 | 4.4% |
+| **Total** | **500** | **100%** |
+
+### Bonus Odds (Two Dice)
+
+| Bonus | Condition | Probability |
+|------|-----------|-------------|
+| Double wheels | Both dice land wheels‑down | 9.24% |
+| Jackknife | One ladder + one windshield (either order) | 0.60% |
+
+### Road Hazard Odds (Two Dice)
+
+| Hazard | Condition | Probability |
+|-------|-----------|-------------|
+| Roll‑over | Double roof | 7.18% |
+| Hail‑storm | Double windshield | 0.19% |
+
+---
+
 ## Features
 
 - 2‑player prototype (designed to scale to 2–8 players)
