@@ -50,7 +50,7 @@ The game uses real‑world roll data gathered from physical dice to weight outco
 
 ## Odds based on real world sampling
 
-### Physical Dice Testing (500 Tosses per Die)
+### Physical Dice Testing (500 Tosses of 'final prototype' die)
 
 | Face | Tosses | Probability |
 |-----|--------|-------------|
